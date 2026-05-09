@@ -5,6 +5,18 @@ Unity と Blender による試製 3D フライトゲーム<br>
 <b>MiG-25 vs UFO: A 3D Flight Combat Prototype built in 2 weeks</b>
 </p>
 
+<p>
+本作で使用している 3D モデルおよびテクスチャは、すべて Blender を用いて自作したものであり、生成AIによるアセット生成は一切行っていません。  
+AI はあくまで設計議論・デバッグ補助・コーディングサポートなどの目的でのみ利用しています。
+</p>
+
+<p>
+All 3D models and textures used in this project were fully created by myself in Blender.  
+No AI‑generated assets were used.  AI tools were utilized only for discussions, debugging, and coding support. 
+</p>
+
+
+
 <h2>概要 / Overview</h2>
 
 <p>
