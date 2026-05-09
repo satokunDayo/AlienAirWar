@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 493b3fdb59cc5ec4ea9c1198c485f9dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - desert1_LOD0: {fileID: 3514898117191088162, guid: 4c056643bc91fb649ba7d0bdb9d2f820, type: 3}
+  - desert1_LOD1: {fileID: 4390644547263434348, guid: 1f9de9886e339e54394d2270edbbd23d, type: 3}
+  - desert2_LOD0: {fileID: 5105370314837935994, guid: 6fd3b2adaa816b942ba73d34adca3cc4, type: 3}
+  - desert2_LOD1: {fileID: 4532054702396828519, guid: c824cb49edc8f22428261508ea08338c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
